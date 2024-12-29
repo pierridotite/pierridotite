@@ -36,8 +36,8 @@ I am an **Agro-Informatics Engineering student** at [Institut Agro Montpellier](
 ---
 
 ## 🌟 Featured Projects
-### [Hortenia App](https://github.com/pierridotite/hortenia-app)
-- A mobile app for managing garden and indoor plants, featuring personalized care tips and reminders.
+### [CIFAR10-CompressAI](https://github.com/pierridotite/CIFAR10-CompressAI)
+- A Convolutional autoencoder for compressing and reconstructing CIFAR-10 images using TensorFlow.
 
 ### [ArbitrageOdds](https://github.com/pierridotite/ArbitrageOdds)
 - A Python project for scraping football odds and identifying arbitrage opportunities with detailed profitability analysis.
