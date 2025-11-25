@@ -1,58 +1,48 @@
-# 👋 Hi, I'm Pierre Raffalli
+<div align="center">
 
-I am an **Agro-Informatics Engineering student** at [Institut Agro Montpellier](https://www.institut-agro-montpellier.fr/), specializing in **artificial intelligence**, **data analysis**, and **software development**. My passion lies at the intersection of **technology and sustainability**, using innovative solutions to solve real-world challenges.
+  # Hi, I'm Pierre Raffalli 👋
 
----
+  **AI & Data Science Engineer | GenAI & RAG Specialist**
+  
+  *Building scalable AI solutions for Industry & AgTech.*
 
-## 🚀 About Me
-- 🎓 **Education**:
-  - Pursuing an engineering degree in Agronomy and Life Sciences at **Institut Agro Montpellier** (2023–2026).
-  - **Erasmus Exchange** at the University of Eastern Finland (2024): Focused on AI, Deep Learning, and Software Engineering.
-  - Former student of **Lycée Hoche** (BCPST) and graduate with honors from **Lycée Rosa Parks**.
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/pierre-raffalli)
+  [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](mailto:pierre.raffalli@supagro.fr)
 
-- 💡 **Professional Experience**:
-  - **Co-founder of Hortenia**:
-    - Built a React Native mobile app for plant management, serving 100+ active users.
-    - Coordinated Agile sprints, ensuring timely releases and client-focused solutions.
-    - Developed custom features such as personalized notifications to boost user engagement.
-  - **Internships**:
-    - Contributed to agricultural innovation projects, including seedless fruit development at **Gautier Semence**.
-    - Enhanced digital marketing and UX for an organic farm's website, increasing online sales conversion.
-
-- 🌱 **Volunteering**:
-  - Co-president of **South Wine Challenge (SWIC)**: Organized 10+ events promoting local wines and led inter-school tasting competitions.
-  - Active **Scout Leader (SGDF)** since 2013: Mentored young scouts and participated in various international solidarity initiatives.
+</div>
 
 ---
 
-## 💻 Skills
-- **Programming**: Python, JavaScript, C++, SQL, Java
-- **Web & Mobile Development**: React, React Native, Node.js, HTML/CSS
-- **AI/ML Tools**: TensorFlow, PyTorch
-- **Data Analysis**: pandas, numpy, R
-- **Cloud & Databases**: AWS, MongoDB, MySQL
-- **Digital Marketing**: Google Ads, SEO, Analytics
+### 🚀 Quick Focus
+* **Current:** AI Engineer @ **Capgemini** (Building Multimodal RAG systems & VLM).
+* **Founder:** **Hortenia** (AgTech Startup, €20k+ revenue, 5k+ users).
+* **Research:** Author of *"CIFAR10-CompressAI"* (Hybrid-Loss Autoencoders).
+* **Stack:** Python, PyTorch, TensorFlow, AWS, FastAPI, Docker.
 
 ---
 
-## 🌟 Featured Projects
-### [CIFAR10-CompressAI](https://github.com/pierridotite/CIFAR10-CompressAI)
-- A Convolutional autoencoder for compressing and reconstructing CIFAR-10 images using TensorFlow.
+### 🛠 Tech Stack
+| Domain | Tools |
+| :--- | :--- |
+| **AI & GenAI** | ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/-Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white) |
+| **MLOps & Cloud** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) |
+| **Dev & Backend** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) |
+| **Viz & Apps** | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?style=flat-square&logo=power-bi&logoColor=black) ![QGIS](https://img.shields.io/badge/-QGIS-589632?style=flat-square&logo=qgis&logoColor=white) |
 
-### [ArbitrageOdds](https://github.com/pierridotite/ArbitrageOdds)
-- A Python project for scraping football odds and identifying arbitrage opportunities with detailed profitability analysis.
+### 🌟 Featured Projects
+
+#### 🧠 [CIFAR10-CompressAI](https://github.com/pierridotite/CIFAR10-CompressAI)
+> **Research & Computer Vision**
+> Implementation of a Hybrid-Loss Autoencoder achieving **12.0x compression** with **0.89 SSIM**.
+> *Tech: TensorFlow, Keras, Image Processing.*
+
+#### ⚽ [ArbitrageOdds](https://github.com/pierridotite/ArbitrageOdds)
+> **Data Scraping & Analytics**
+> Automated pipeline identifying arbitrage opportunities in sports betting with real-time profitability analysis.
+> *Tech: Python, Selenium, Pandas, Statistical Analysis.*
 
 ---
 
-## 🌐 Let's Connect
-- [LinkedIn](https://linkedin.com/in/pierre-raffalli)
-- [GitHub](https://github.com/pierridotite)
-- 📧 [pierre.raffalli@supagro.fr](mailto:pierre.raffalli@supagro.fr)
-
----
-
-## 🎹 Interests
-- Musician: Passionate about piano, exploring both classical and contemporary repertoires.
-- Gamer: Enjoys engaging with diverse genres and platforms.
-- Runner: Regularly practices running to stay physically active and focused.
-- Open Source Contributor: Actively involved in improving shared software resources.
+<div align="center">
+  <i>Piano player (10yrs) • Marathon Runner • Open Source Enthusiast</i>
+</div>
