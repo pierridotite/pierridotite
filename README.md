@@ -7,7 +7,7 @@
   *Building scalable AI solutions for Industry & AgTech.*
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/pierre-raffalli)
-  [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](mailto:pierre.raffalli@supagro.fr)
+  [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](mailto:praffalli1@gmail.com)
 
 </div>
 
