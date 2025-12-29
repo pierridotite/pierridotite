@@ -13,10 +13,9 @@
 
 ---
 
-### 🚀 Quick Focus
+### Quick Focus
 * **Current:** AI Engineer @ **Capgemini** (Building Multimodal RAG systems & VLM).
 * **Founder:** **Hortenia** (AgTech Startup, €20k+ revenue, 5k+ users).
-* **Research:** Author of *"CIFAR10-CompressAI"* (Hybrid-Loss Autoencoders).
 * **Stack:** Python, PyTorch, TensorFlow, AWS, FastAPI, Docker.
 
 ---
@@ -31,12 +30,12 @@
 
 ### 🌟 Featured Projects
 
-#### 🧠 [CIFAR10-CompressAI](https://github.com/pierridotite/CIFAR10-CompressAI)
+#### [CIFAR10-CompressAI](https://github.com/pierridotite/CIFAR10-CompressAI)
 > **Research & Computer Vision**
 > Implementation of a Hybrid-Loss Autoencoder achieving **12.0x compression** with **0.89 SSIM**.
 > *Tech: TensorFlow, Keras, Image Processing.*
 
-#### ⚽ [ArbitrageOdds](https://github.com/pierridotite/ArbitrageOdds)
+#### [ArbitrageOdds](https://github.com/pierridotite/ArbitrageOdds)
 > **Data Scraping & Analytics**
 > Automated pipeline identifying arbitrage opportunities in sports betting with real-time profitability analysis.
 > *Tech: Python, Selenium, Pandas, Statistical Analysis.*
