@@ -4,7 +4,7 @@
 
 # Pierre Raffalli
 
-**AI & Data Science Engineer @ Capgemini**
+**AI & Data Science Engineer @ Capgemini & **CEO** [Hortenia](https://hortenia.com)**
 *Specialized in GenAI, RAG Systems & ML Research*
 
 [![Profile views](https://komarev.com/ghpvc/?username=pierridotite&style=flat-square)](https://github.com/pierridotite)
