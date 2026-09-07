@@ -5,7 +5,7 @@
 # Pierre Raffalli
 
 **AI & Cloud Engineer @ Capgemini Engineering · Co-founder & former CEO of [Hortenia](https://hortenia.com)**
-*Production GenAI systems: LLM orchestration, RAG, multi-agent — from live robot demos to a 5K-user AgTech platform*
+*Production GenAI systems (LLM orchestration, RAG, multi-agent), from live robot demos to a 5K-user AgTech platform*
 
 [![Profile views](https://komarev.com/ghpvc/?username=pierridotite&style=flat-square)](https://github.com/pierridotite)
 [![Total Stars](https://img.shields.io/badge/dynamic/json?color=gold&label=Total%20Stars&query=%24.stars&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2Fpierridotite&style=flat-square)](https://github.com/pierridotite)
@@ -18,10 +18,10 @@
 
 ### Quick Focus
 
-* **Now:** AI & Cloud Engineer @ Capgemini Engineering — multimodal AI orchestration (Semantic Kernel, Azure OpenAI, RAG) for Industry & AgTech, pitched to Group CIO / ExCom.
-* **Studying:** Engineering degree (M.Sc. level), Data Science specialization @ L'Institut Agro Montpellier — class of 2027. Exchange semester in CS & AI @ University of Eastern Finland.
+* **Now:** AI & Cloud Engineer @ Capgemini Engineering. Multimodal AI orchestration (Semantic Kernel, Azure OpenAI, RAG) for Industry & AgTech, pitched to Group CIO / ExCom.
+* **Studying:** Engineering degree (M.Sc. level), Data Science specialization @ L'Institut Agro Montpellier, class of 2027. Exchange semester in CS & AI @ University of Eastern Finland.
 * **Research interests:** GenAI evaluation, ML systems, compiler-level autodiff, optimization semantics.
-* **Based in:** Paris, France — open to EMEA relocation (Dublin, London).
+* **Based in:** Paris, France. Open to EMEA relocation (Dublin, London).
 
 ---
 
@@ -29,7 +29,7 @@
 
 * 🤖 Co-built and ran a live **LLM-powered cockpit orchestrating multi-vendor humanoid robots** at VivaTech 2026 and the Capgemini Physical AI Summit, alongside Microsoft, Google DeepMind, NVIDIA and AWS.
 * 📚 Shipped production **RAG microservices** (Python, FAISS) indexing 200+ technical documents, deployed at Nestlé.
-* 🥈 **Kaggle Silver Medal** — March Machine Learning Mania 2026 (top 3%, 96 / 3,485 teams).
+* 🥈 **Kaggle Silver Medal** at March Machine Learning Mania 2026 (top 3%, 96 / 3,485 teams).
 * 🌱 Founded and scaled **Hortenia** to 5,000+ users (AWS / Node.js / React Native + custom ML recommendation engine); 1st place at Graine d'Agro 2024.
 * ☁️ **Microsoft AI-900** Azure AI Fundamentals (2026).
 
