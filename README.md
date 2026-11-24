@@ -27,6 +27,7 @@
 
 ### Highlights
 
+* 🧪 Created **[mobile-agent-testers](https://github.com/pierridotite/mobile-agent-testers)**: AI agents that beta-test mobile apps on 20 phones at once. 1,500+ GitHub stars in its first week, featured by GitHubDaily, launched on Product Hunt.
 * 🤖 Co-built and ran a live **LLM-powered cockpit orchestrating multi-vendor humanoid robots** at VivaTech 2026 and the Capgemini Physical AI Summit, alongside Microsoft, Google DeepMind, NVIDIA and AWS.
 * 📚 Shipped production **RAG microservices** (Python, FAISS) indexing 200+ technical documents, deployed at Nestlé.
 * 🥈 **Kaggle Silver Medal** at March Machine Learning Mania 2026 (top 3%, 96 / 3,485 teams).
@@ -36,6 +37,11 @@
 ---
 
 ### Featured Projects
+
+#### [mobile-agent-testers](https://github.com/pierridotite/mobile-agent-testers) [![Stars](https://img.shields.io/github/stars/pierridotite/mobile-agent-testers?style=flat-square)](https://github.com/pierridotite/mobile-agent-testers/stargazers)
+> **AI Agents & Mobile QA**
+> 20 AI testers on 20 different phones, in parallel, on GitHub's free runners. Each one is a Claude Code agent with its own iOS Simulator or Android emulator and a persona: it uses the app like a new user and writes a bug report with screenshots. 46 distinct bugs found in LocalSend in one run.
+> *Tech: Claude Code, GitHub Actions, Python, Bash, iOS Simulator, Android Emulator.*
 
 #### [NOMA : Neural-Oriented Machine Architecture](https://github.com/pierridotite/NOMA)
 > **Research & Systems Programming**
@@ -53,8 +59,8 @@
 
 | Domain | Tools |
 | :--- | :--- |
-| **AI & GenAI** | ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/-Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![FAISS](https://img.shields.io/badge/-FAISS-0467DF?style=flat-square&logo=meta&logoColor=white) ![Semantic Kernel](https://img.shields.io/badge/-Semantic_Kernel-5C2D91?style=flat-square&logo=microsoft&logoColor=white) ![Azure OpenAI](https://img.shields.io/badge/-Azure_OpenAI-412991?style=flat-square&logo=openai&logoColor=white) ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white) |
-| **Cloud & MLOps** | ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) |
+| **AI & GenAI** | ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/-Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![FAISS](https://img.shields.io/badge/-FAISS-0467DF?style=flat-square&logo=meta&logoColor=white) ![Semantic Kernel](https://img.shields.io/badge/-Semantic_Kernel-5C2D91?style=flat-square&logo=microsoft&logoColor=white) ![Azure OpenAI](https://img.shields.io/badge/-Azure_OpenAI-412991?style=flat-square&logo=openai&logoColor=white) ![Claude Code](https://img.shields.io/badge/-Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white) ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white) |
+| **Cloud & MLOps** | ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) |
 | **Dev & Backend** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) |
 | **Web, Mobile & Viz** | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![React Native](https://img.shields.io/badge/-React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white) ![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?style=flat-square&logo=power-bi&logoColor=black) ![QGIS](https://img.shields.io/badge/-QGIS-589632?style=flat-square&logo=qgis&logoColor=white) |
 
