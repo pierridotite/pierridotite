@@ -4,7 +4,7 @@
 
 # Pierre Raffalli
 
-**AI & Cloud Engineer @ Capgemini Engineering · Co-founder & former CEO of [Hortenia](https://hortenia.com)**
+**Incoming AI Builder @ Salesforce (January 2027) · AI & Cloud Engineer @ Capgemini Engineering · Co-founder & former CEO of [Hortenia](https://hortenia.com)**
 *Production GenAI systems (LLM orchestration, RAG, multi-agent), from live robot demos to a 5K-user AgTech platform*
 
 [![Profile views](https://komarev.com/ghpvc/?username=pierridotite&style=flat-square)](https://github.com/pierridotite)
@@ -18,10 +18,11 @@
 
 ### Quick Focus
 
+* **Next:** joining **Salesforce** as an AI Builder in January 2027.
 * **Now:** AI & Cloud Engineer @ Capgemini Engineering. Multimodal AI orchestration (Semantic Kernel, Azure OpenAI, RAG) for Industry & AgTech, pitched to Group CIO / ExCom.
 * **Studying:** Engineering degree (M.Sc. level), Data Science specialization @ L'Institut Agro Montpellier, class of 2027. Exchange semester in CS & AI @ University of Eastern Finland.
 * **Research interests:** GenAI evaluation, ML systems, compiler-level autodiff, optimization semantics.
-* **Based in:** Paris, France. Open to EMEA relocation (Dublin, London).
+* **Based in:** Paris, France.
 
 ---
 
