@@ -4,11 +4,11 @@
 
 # Pierre Raffalli
 
-**Incoming AI Builder @ Salesforce (January 2027) · AI & Cloud Engineer @ Capgemini Engineering · Co-founder & former CEO of [Hortenia](https://hortenia.com)**
-*Production GenAI systems (LLM orchestration, RAG, multi-agent), from live robot demos to a 5K-user AgTech platform*
+**Incoming AI Builder @ Salesforce (January 2027) · Data Science @ L'Institut Agro · Co-founder & former CEO of [Hortenia](https://hortenia.com)**
+*Production GenAI systems (LLM orchestration, RAG, multi-agent), from live robot demos to an AgTech app with 13K+ installs*
 
 [![Profile views](https://komarev.com/ghpvc/?username=pierridotite&style=flat-square)](https://github.com/pierridotite)
-[![Total Stars](https://img.shields.io/badge/dynamic/json?color=gold&label=Total%20Stars&query=%24.stars&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2Fpierridotite&style=flat-square)](https://github.com/pierridotite)
+[![Total Stars](https://img.shields.io/github/stars/pierridotite?style=flat-square&affiliations=OWNER&label=Total%20Stars&color=gold)](https://github.com/pierridotite)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/pierre-raffalli)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](mailto:praffalli1@gmail.com)
 
@@ -19,21 +19,20 @@
 ### Quick Focus
 
 * **Next:** joining **Salesforce** as an AI Builder in January 2027.
-* **Now:** AI & Cloud Engineer @ Capgemini Engineering. Multimodal AI orchestration (Semantic Kernel, Azure OpenAI, RAG) for Industry & AgTech, pitched to Group CIO / ExCom.
-* **Studying:** Engineering degree (M.Sc. level), Data Science specialization @ L'Institut Agro Montpellier, class of 2027. Exchange semester in CS & AI @ University of Eastern Finland.
+* **Now:** Engineering degree (M.Sc. level), Data Science specialization @ L'Institut Agro, in Rennes until January 2027. Exchange semester in CS & AI @ University of Eastern Finland.
+* **Before:** AI & Cloud Engineer @ Capgemini Engineering. Multimodal AI orchestration (Semantic Kernel, Azure OpenAI, RAG), pitched to Group CIO / ExCom.
 * **Research interests:** GenAI evaluation, ML systems, compiler-level autodiff, optimization semantics.
-* **Based in:** Paris, France.
+* **Based in:** Rennes, France.
 
 ---
 
 ### Highlights
 
-* 🧪 Created **[mobile-agent-testers](https://github.com/pierridotite/mobile-agent-testers)**: AI agents that beta-test mobile apps on 20 phones at once. 1,500+ GitHub stars in its first week, featured by GitHubDaily, launched on Product Hunt.
-* 🤖 Co-built and ran a live **LLM-powered cockpit orchestrating multi-vendor humanoid robots** at VivaTech 2026 and the Capgemini Physical AI Summit, alongside Microsoft, Google DeepMind, NVIDIA and AWS.
-* 📚 Shipped production **RAG microservices** (Python, FAISS) indexing 200+ technical documents, deployed at Nestlé.
-* 🥈 **Kaggle Silver Medal** at March Machine Learning Mania 2026 (top 3%, 96 / 3,485 teams).
-* 🌱 Founded and scaled **Hortenia** to 5,000+ users (AWS / Node.js / React Native + custom ML recommendation engine); 1st place at Graine d'Agro 2024.
-* ☁️ **Microsoft AI-900** Azure AI Fundamentals (2026).
+* Created **[mobile-agent-testers](https://github.com/pierridotite/mobile-agent-testers)**: AI agents that beta-test mobile apps on 20 phones at once. 1,500+ GitHub stars in its first week.
+* Co-built a live **LLM cockpit orchestrating humanoid robots** from several vendors, shown at VivaTech 2026.
+* Shipped production **RAG microservices** (Python, FAISS), deployed at Nestlé.
+* **Kaggle Silver Medal**, March Machine Learning Mania 2026 (top 3%).
+* Founded **Hortenia**, an AgTech app with 13,000+ installs and 6,000+ accounts. 1st place at Graine d'Agro 2024.
 
 ---
 
