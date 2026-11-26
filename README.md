@@ -29,7 +29,7 @@
 
 ### Highlights
 
-* Created **[Explore-Compile-Replay](https://github.com/pierridotite/explore-compile-replay)**: an agent explores an app once, and what it did becomes a standard test that reruns in CI with no model. Paper in preparation.
+* Created **[Explore-Compile-Replay](https://github.com/pierridotite/explore-compile-replay)**: an agent explores an app once, and what it did becomes a standard test that reruns in CI with no model. Version 0.1.0 and a [preprint](https://doi.org/10.5281/zenodo.24565285).
 * Created **[mobile-agent-testers](https://github.com/pierridotite/mobile-agent-testers)**: AI agents that beta-test mobile apps on 20 phones at once. 2,000+ GitHub stars in nine days.
 * Co-built a live **LLM cockpit orchestrating humanoid robots** from several vendors, shown at VivaTech 2026.
 * Shipped production **RAG microservices** (Python, FAISS), deployed at Nestlé.
@@ -42,7 +42,7 @@
 
 #### [Explore-Compile-Replay](https://github.com/pierridotite/explore-compile-replay)
 > **Agent Testing & Open Specification**<br>
-> An agent explores your app once. What it did becomes a standard test that reruns in CI with no model. A pattern, an open trace format with seven laws, and a conformance kit. The first adapter compiles to Maestro flows for mobile apps. Early draft. Paper in preparation.<br>
+> An agent explores your app once. What it did becomes a standard test that reruns in CI with no model. A pattern, an open trace format with seven laws, and a conformance kit. The first adapter compiles to Maestro flows for mobile apps. Version 0.1.0, with a [preprint](https://doi.org/10.5281/zenodo.24565285) measured on LocalSend.<br>
 > *Tech: TypeScript, Maestro, GitHub Actions.*
 
 #### [mobile-agent-testers](https://github.com/pierridotite/mobile-agent-testers) [![Stars](https://img.shields.io/github/stars/pierridotite/mobile-agent-testers?style=flat-square)](https://github.com/pierridotite/mobile-agent-testers/stargazers)
