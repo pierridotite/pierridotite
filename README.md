@@ -4,7 +4,7 @@
 
 # Pierre Raffalli
 
-**Incoming AI Builder @ Salesforce (January 2027) · Data Science @ L'Institut Agro · Co-founder & former CEO of [Hortenia](https://hortenia.com)**
+**Incoming AI Builder @ Salesforce (January 2027) · Data Science @ L'Institut Agro · Co-founder & former CEO of [Hortenia](https://hortenia.com)**<br>
 *Production GenAI systems (LLM orchestration, RAG, multi-agent), from live robot demos to an AgTech app with 13K+ installs*
 
 [![Profile views](https://komarev.com/ghpvc/?username=pierridotite&style=flat-square)](https://github.com/pierridotite)
@@ -18,17 +18,19 @@
 
 ### Quick Focus
 
+* **Building:** [Explore-Compile-Replay](https://github.com/pierridotite/explore-compile-replay) and [mobile-agent-testers](https://github.com/pierridotite/mobile-agent-testers): tests that come from an AI agent's exploration and rerun with no model.
 * **Next:** joining **Salesforce** as an AI Builder in January 2027.
 * **Now:** Engineering degree (M.Sc. level), Data Science specialization @ L'Institut Agro, in Rennes until January 2027. Exchange semester in CS & AI @ University of Eastern Finland.
 * **Before:** AI & Cloud Engineer @ Capgemini Engineering. Multimodal AI orchestration (Semantic Kernel, Azure OpenAI, RAG), pitched to Group CIO / ExCom.
-* **Research interests:** GenAI evaluation, ML systems, compiler-level autodiff, optimization semantics.
+* **Research interests:** GenAI evaluation, deterministic agent testing, ML systems, compiler-level autodiff, optimization semantics.
 * **Based in:** Rennes, France.
 
 ---
 
 ### Highlights
 
-* Created **[mobile-agent-testers](https://github.com/pierridotite/mobile-agent-testers)**: AI agents that beta-test mobile apps on 20 phones at once. 1,500+ GitHub stars in its first week.
+* Created **[Explore-Compile-Replay](https://github.com/pierridotite/explore-compile-replay)**: an agent explores an app once, and what it did becomes a standard test that reruns in CI with no model. Paper in preparation.
+* Created **[mobile-agent-testers](https://github.com/pierridotite/mobile-agent-testers)**: AI agents that beta-test mobile apps on 20 phones at once. 2,000+ GitHub stars in nine days.
 * Co-built a live **LLM cockpit orchestrating humanoid robots** from several vendors, shown at VivaTech 2026.
 * Shipped production **RAG microservices** (Python, FAISS), deployed at Nestlé.
 * **Kaggle Silver Medal**, March Machine Learning Mania 2026 (top 3%).
@@ -38,20 +40,15 @@
 
 ### Featured Projects
 
+#### [Explore-Compile-Replay](https://github.com/pierridotite/explore-compile-replay)
+> **Agent Testing & Open Specification**<br>
+> An agent explores your app once. What it did becomes a standard test that reruns in CI with no model. A pattern, an open trace format with seven laws, and a conformance kit. The first adapter compiles to Maestro flows for mobile apps. Early draft. Paper in preparation.<br>
+> *Tech: TypeScript, Maestro, GitHub Actions.*
+
 #### [mobile-agent-testers](https://github.com/pierridotite/mobile-agent-testers) [![Stars](https://img.shields.io/github/stars/pierridotite/mobile-agent-testers?style=flat-square)](https://github.com/pierridotite/mobile-agent-testers/stargazers)
-> **AI Agents & Mobile QA**
-> 20 AI testers on 20 different phones, in parallel, on GitHub's free runners. Each one is a Claude Code agent with its own iOS Simulator or Android emulator and a persona: it uses the app like a new user and writes a bug report with screenshots. 46 distinct bugs found in LocalSend in one run.
+> **AI Agents & Mobile QA**<br>
+> 20 AI testers on 20 different phones, in parallel, on GitHub's free runners. Each one is a Claude Code agent with its own iOS Simulator or Android emulator and a persona: it uses the app like a new user and writes a bug report with screenshots. 46 distinct bugs found in LocalSend in one run. Since 0.2, a tester's path replays with no model, so a bug can become a test (experimental, Android only). The first application of Explore-Compile-Replay.<br>
 > *Tech: Claude Code, GitHub Actions, Python, Bash, iOS Simulator, Android Emulator.*
-
-#### [NOMA : Neural-Oriented Machine Architecture](https://github.com/pierridotite/NOMA)
-> **Research & Systems Programming**
-> A research-driven systems language for machine learning where autodiff is a compiler pass and model parameters are explicit, growable memory.
-> *Tech: Rust, Compiler Design, Autodiff.*
-
-#### [stonks-dashboard](https://github.com/pierridotite/stonks-dashboard)
-> **Terminal UI & Finance**
-> A cyberpunk-style, real-time financial monitor running in the terminal. Visualizes crypto and stock market data with ASCII charts and dynamic coloring.
-> *Tech: JavaScript / Node.js, TUI.*
 
 ---
 
@@ -73,20 +70,15 @@
 
 ### Other Projects
 
-#### [CIFAR10-CompressAI](https://github.com/pierridotite/CIFAR10-CompressAI)
-> **Computer Vision Research**
-> Hybrid-loss convolutional autoencoder for image compression, reaching 12.0x compression at 0.89 SSIM on CIFAR-10.
-> *Tech: TensorFlow, Keras, Image Processing.*
+#### [stonks-dashboard](https://github.com/pierridotite/stonks-dashboard) [![Stars](https://img.shields.io/github/stars/pierridotite/stonks-dashboard?style=flat-square)](https://github.com/pierridotite/stonks-dashboard/stargazers)
+> **Terminal UI & Finance**<br>
+> A cyberpunk-style, real-time financial monitor running in the terminal. Visualizes crypto and stock market data with ASCII charts and dynamic coloring. Runs with `npx stonks-dashboard`.<br>
+> *Tech: JavaScript / Node.js, TUI.*
 
-#### [speed-test-roaster](https://github.com/pierridotite/speed-test-roaster)
-> **CLI Tool**
-> A Node.js speed-test CLI that measures your connection and roasts it with a sarcastic verdict in a colored terminal box.
-> *Tech: Node.js, CLI.*
-
-#### [ArbitrageOdds](https://github.com/pierridotite/ArbitrageOdds)
-> **Data Scraping & Quant**
-> Scrapes football match odds and detects arbitrage opportunities through exact mathematical checks.
-> *Tech: Python, Web Scraping.*
+#### [NOMA : Neural-Oriented Machine Architecture](https://github.com/pierridotite/NOMA)
+> **Research & Systems Programming**<br>
+> A research-driven systems language for machine learning where autodiff is a compiler pass and model parameters are explicit, growable memory.<br>
+> *Tech: Rust, Compiler Design, Autodiff.*
 
 ---
 
